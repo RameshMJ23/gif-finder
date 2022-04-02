@@ -1,6 +1,9 @@
 # Gif finder
 
 App for searching GIFs
+- find GIFs with voice search
+- choose List/Grid view
+- toggle between light/Dark theme
 
 video of the app: https://youtu.be/oIqwoJWQgro
 
