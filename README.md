@@ -5,7 +5,7 @@ App for searching GIFs
 - choose List/Grid view
 - toggle between light/Dark theme
 
-video of the app: https://youtu.be/oIqwoJWQgro
+video of the app: https://youtu.be/EuWlnIqvtOU
 
 Screenshots of app: 
 
